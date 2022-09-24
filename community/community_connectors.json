@@ -1,5 +1,13 @@
 [
   {
+    "name": "PollyWDC",
+    "url": "https://elucidatainc.github.io/pollyWDC/index.html",
+    "author": "Nobal Dhruw",
+    "github_username": "nobaldhruw",
+    "tags": ["v_0.0.1"],
+    "description": "Web data connector to fetch biomedical data from Polly"
+  },
+  {
     "name": "AdStage",
     "url": "http://tech.adstage.io/tableau_connector/AdstageConnector.html",
     "author": "David Haslem",
